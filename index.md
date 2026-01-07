@@ -1,7 +1,12 @@
 # First Header
+adding image
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Second Header
+## Adding Code Block
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ### Third Header
 
@@ -13,4 +18,5 @@
 
 -----
 Tested editing .md file
+
 
