@@ -8,7 +8,10 @@ adding image
 var myVar = "Hello, world!";
 ```
 
-### Third Header
+### Add a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 #### Fourth Header
 
@@ -18,5 +21,6 @@ var myVar = "Hello, world!";
 
 -----
 Tested editing .md file
+
 
 
